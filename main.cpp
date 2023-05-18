@@ -8,14 +8,9 @@ using namespace std;
 
 /*
     Union Intersection Calculator
+    Final Project
+    
     BSM CS 1B
-
-    Group 5
-
-    DE JESUS, Carlos John 
-    DE GUZMAN, Richie Mae
-    RODRIGUEZ, Samuel
-    VARGAS, John Francis
 */
 void Welcome();
 void Menu();
