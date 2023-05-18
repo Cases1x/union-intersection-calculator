@@ -9,8 +9,20 @@ using namespace std;
 /*
     Union Intersection Calculator
     Final Project
+    Computer Programing 2
     
+
+
     BSM CS 1B
+    Second Semester
+    A.Y. 2022 - 2023
+
+    Members:
+    VARGAS, John Francis
+    DE JESUS, Carlos JOhn
+    DE GUZMAN, Richie Mae
+    RODRIGUEZ, Samuel
+    
 */
 void Welcome();
 void Menu();
