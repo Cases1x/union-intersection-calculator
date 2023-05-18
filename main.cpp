@@ -7,7 +7,7 @@
 using namespace std; 
 
 /*
-    Final Project
+    Union Intersection Calculator
     BSM CS 1B
 
     Group 5
